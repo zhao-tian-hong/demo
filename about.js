@@ -1,3 +1,3 @@
-function(){
-  return<div>我的GITHUB</div>
+function demo() {
+  return <div>我的GITHUB</div>;
 }
